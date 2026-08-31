@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzlheWJmbjI2cHFtb3d2cjg5M2o3a2Q1dDJ2eTYxamxrMXNkcXQ1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam16YmxtbnEyOTQ1eTNiZW5mOXlwNDkxdmM4ejlseHo0Y2RjbGx1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif" />
 
 #### Web Development
 <p align="center">
