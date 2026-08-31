@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&duration=3000&color=8B8000&center=true&vCenter=true&lines=>>Bankai<<;Abdelrahman+Mahdy...;Software+Engineer">
 </h1>
 
----
-
-
-
----
 
 <img align="right" alt="GIF" height="250px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam16YmxtbnEyOTQ1eTNiZW5mOXlwNDkxdmM4ejlseHo0Y2RjbGx1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif" />
 
